@@ -1,0 +1,500 @@
+  117  ssh root@10.218.135.106
+  118  ssh root@10.218.135.106
+  119  sea
+  120  sea
+  121  sea
+  122  sea
+  123  sea
+  124  ssh root@10.144.131.150
+  125  ssh root@10.144.130.187/
+  126  ssh root@10.144.130.6
+  127  ssh root@10.144.130.6
+  128  ssh root@10.144.130.73
+  129  sea
+  130  ssh root@10.218.136.167
+  131  ssh root@10.144.130.32
+  132  sea
+  133  sea
+  134  sea
+  135  sae
+  136  sea
+  137  ls
+  138  vi software_bash.sh
+  139  vi software_bash.sh
+  140  vi software_bash.sh
+  141  code
+  142  cd scratch/
+  143  chmod +x software_bash.sh 
+  144  ./software_bash.sh 
+  145  ./software_bash.sh 
+  146  ./software_bash.sh 
+  147  ./software_bash.sh 
+  148  ./software_bash.sh 
+  149  ./software_bash.sh 
+  150  ./software_bash.sh 
+  151  ./software_bash.sh 
+  152  ./software_bash.sh 
+  153  ./software_bash.sh 
+  154  ./software_bash.sh 
+  155  ./software_bash.sh 
+  156  ./software_bash.sh 
+  157  ./software_bash.sh 
+  158  ./software_bash.sh 
+  159  ./software_bash.sh 
+  160  ./software_bash.sh 
+  161  ./software_bash.sh 
+  162  ./software_bash.sh 
+  163  ./software_bash.sh 
+  164  ./software_bash.sh 
+  165  ./software_bash.sh 
+  166  ./software_bash.sh 
+  167  ./software_bash.sh 
+  168  ./software_bash.sh 
+  169  ./software_bash.sh 
+  170  ./software_bash.sh 
+  171  ./software_bash.sh 
+  172  ./software_bash.sh 
+  173  ./software_bash.sh 
+  174  ./software_bash.sh 
+  175  ./software_bash.sh 
+  176  ./software_bash.sh 
+  177  ./software_bash.sh 
+  178  ./software_bash.sh 
+  179  ./software_bash.sh 
+  180  ./software_bash.sh 
+  181  ./software_bash.sh 
+  182  ./software_bash.sh 
+  183  ./software_bash.sh 
+  184  ./software_bash.sh 
+  185  ./software_bash.sh 
+  186  ./software_bash.sh 
+  187  ./software_bash.sh 
+  188  ./software_bash.sh 
+  189  ./software_bash.sh 
+  190  ./software_bash.sh 
+  191  ./software_bash.sh 
+  192  ./software_bash.sh 
+  193  vi gtm.conf 
+  194  ./software_bash.sh 
+  195  ./software_bash.sh 
+  196  ./software_bash.sh 
+  197  ./software_bash.sh 
+  198  ./software_bash.sh 
+  199  ./software_bash.sh 
+  200  ./software_bash.sh 
+  201  ./software_bash.sh 
+  202  ./software_bash.sh 
+  203  ./software_bash.sh 
+  204  ./software_bash.sh 
+  205  ./software_bash.sh 
+  206  ./software_bash.sh 
+  207  ./software_bash.sh 
+  208  ./software_bash.sh 
+  209  ./software_bash.sh 
+  210  ./software_bash.sh 
+  211  ./software_bash.sh 
+  212  ./software_bash.sh 
+  213  ./software_bash.sh 
+  214  ./software_bash.sh 
+  215  ./software_bash.sh 
+  216  ./software_bash.sh 
+  217  ./software_bash.sh 
+  218  ./software_bash.sh 
+  219  ./software_bash.sh 
+  220  ./software_bash.sh 
+  221  u
+  222  u
+  223  ./software_bash.sh 
+  224  ./software_bash.sh 
+  225  ./software_bash.sh 
+  226  ./software_bash.sh 
+  227  ./software_bash.sh 
+  228  ./software_bash.sh 
+  229  ./software_bash.sh 
+  230  ./software_bash.sh 
+  231  ./software_bash.sh 
+  232  ./software_bash.sh 
+  233  ./software_bash.sh 
+  234  ./software_bash.sh 
+  235  ./software_bash.sh 
+  236  ./software_bash.sh 
+  237  uu
+  238  ./software_bash.sh 
+  239  ./software_bash.sh 
+  240  ./software_bash.sh 
+  241  ./software_bash.sh 
+  242  ./software_bash.sh 
+  243  ./software_bash.sh 
+  244  ./software_bash.sh 
+  245  ./software_bash.sh 
+  246  ./software_bash.sh 
+  247  ./software_bash.sh 
+  248  ./software_bash.sh 
+  249  ./software_bash.sh 
+  250  ./software_bash.sh 
+  251  ./software_bash.sh 
+  252  ./software_bash.sh 
+  253  ./software_bash.sh 
+  254  ./software_bash.sh 
+  255  ./software_bash.sh 
+  256  ./software_bash.sh 
+  257  ./software_bash.sh 
+  258  ./software_bash.sh 
+  259  ./software_bash.sh 
+  260  ./software_bash.sh 
+  261  ./software_bash.sh 
+  262  ./software_bash.sh 
+  263  ./software_bash.sh 
+  264  ./software_bash.sh 
+  265  ./software_bash.sh 
+  266  ls
+  267  ./software_bash.sh 
+  268  vi software_bash.sh 
+  269  code
+  270  ks
+  271  ls
+  272  mkdir scratch
+  273  cd scr
+  274  cd scratch/
+  275  vi gtm.conf
+  276  vi gtm.conf 
+  277  vi gtm.conf 
+  278  vi gtm.conf 
+  279  vi gtm.conf 
+  280  sea
+  281  ssh root@10.144.128.209
+  282  sea
+  283  sea
+  284  vi /etc/ssh/ssh_config
+  285  sudo vi /etc/ssh/ssh_config
+  286  scp root@10.144.128.209:/config/parser.py .
+  287  sudo vi /etc/ssh/ssh_config
+  288  scp root@10.144.128.209:/config/parser.py .
+  289  sudo vi /etc/ssh/ssh_config
+  290  scp root@10.144.128.209:/config/parser.py .
+  291  sudo vi /etc/ssh/ssh_config
+  292  scp root@10.144.128.209:/config/parser.py .
+  293  pwd
+  294  sea
+  295  sea
+  296  sea
+  297  sudo vi /etc/ssh/ssh_config
+  298  sea
+  299  sudo vi /etc/ssh/ssh_config
+  300  sea
+  301  code
+  302  ls
+  303  cd - 
+  304  ls
+  305  scp root@10.144.128.209:/config/parser.py .
+  306  pwd
+  307  ls
+  308  vi software_bash.sh 
+  309  | base64 -d | openssl asn1parse -inform DER
+  310  MIIBCgKCAQEAyOgDGms29sQMTXFJKpW9Sdgzt7Yk83ZmYLtbBhQhrVJWu/vqgETha/ZE4q5sCSWD6XNP/9qKLUj0or87waj1vACB7k6vKnE+YWBE7UQI6bvrU/DKLfhypi4QzFcWJWGo7bE/regZRrerKB/GaRsOCQYaQso8IbJOUp2PvPbyA4bA+j0iaYW74/Se+5B+WkRJLm/gNoJ2xDT3ivt3dm5td1lK9bajVfddKvZgEXChOWVQsRnumVYVkXkR4yTPPqEiqNKTkxOu/T7cjGU0so2khiE6T/761LgX4EjBcbiAcL0GophxTz7yO1ce68laMj3sjjKsiYFBbix/s6qWGTJ+iQIDAQAB| base64 -d | openssl asn1parse -inform DER
+  311  echo MIIBCgKCAQEAyOgDGms29sQMTXFJKpW9Sdgzt7Yk83ZmYLtbBhQhrVJWu/vqgETha/ZE4q5sCSWD6XNP/9qKLUj0or87waj1vACB7k6vKnE+YWBE7UQI6bvrU/DKLfhypi4QzFcWJWGo7bE/regZRrerKB/GaRsOCQYaQso8IbJOUp2PvPbyA4bA+j0iaYW74/Se+5B+WkRJLm/gNoJ2xDT3ivt3dm5td1lK9bajVfddKvZgEXChOWVQsRnumVYVkXkR4yTPPqEiqNKTkxOu/T7cjGU0so2khiE6T/761LgX4EjBcbiAcL0GophxTz7yO1ce68laMj3sjjKsiYFBbix/s6qWGTJ+iQIDAQAB| base64 -d | openssl asn1parse -inform DER
+  312  echo MIIBCgKCAQEA6dpNKu3Z+ukH4EbIjnzStwcFkdhnhuIjy23O+JbKeGBpN4W6BWDbmARiooUq4Q8Nd9h/WBmHrAcEEXjS2BRfEpXTO8fEUgPMsWljTcSLK47rBtYIqvojxnnOh3IgVTxpshPUeZMGY6FrZAMwWN/y/kDcpOh4FVcOwNi9R7k0Az4UUG/2DpxqmUov0jcqWKN5DYbkJb4RyUIlUTi0Atrjs3bQR3McLKuaMOjonfGmt6uLWFRke8bIUjlAUXBO65OuyHJOy6CvqIs2k5ijICBnQeGGlHS8AJjBzojuGX22h1soXwMpQFfYYmv6rp88jilEGFwTWYe65kofR2IzsrHz1QIDAQAB | base64 -d | openssl asn1parse -inform DER
+  313  exit
+  314  code
+  315  cd scratch/
+  316  vi test.py
+  317  chmod +X test.py 
+  318  python3 test.py 
+  319  ls
+  320  touch a.txt
+  321  ls
+  322  python3 test.py 
+  323  vi test.py
+  324  python3 test.py 
+  325  scp root@10.144.128.209:/config/parser.py .
+  326  sea
+  327  ssh root@10.170.12.41
+  328  sea
+  329  ssh root@10.170.12.41
+  330  sea
+  331  sea
+  332  sea
+  333  sea
+  334  ssh root@10.218.1.102
+  335  ssh root@10.218.1.102
+  336  ssh root@10.218.1.102
+  337  ssh root@10.218.1.102
+  338  ssh root@10.144.129.27
+  339  sea
+  340  sea
+  341  sea
+  342  code
+  343  cd scratch/
+  344  ls
+  345  scp root@10.144.130.187:/shared/images/bug .
+  346  scp root@10.144.130.187:/shared/images/bug/parser.py .
+  347  scp root@10.170.12.41:/config/bigip_gtm.conf
+  348  ls
+  349  scp root@10.170.12.41:/config/bigip_gtm.conf .
+  350  ssh root@10.218.1.102
+  351  ssh root@10.146.141.71
+  352  ssh root@10.170.12.41
+  353  sea
+  354  ssh root@10.144.130.187
+  355  ssh root@10.144.130.187
+  356  ssh root@10.170.12.41
+  357  scp root@10.170.12.41:/shared/images/bug/parser.py .
+  358  sea
+  359  ssh root@10.170.12.41
+  360  sea
+  361  dig @1.1.1.1 google.com
+  362  dig @1.1.1.1 fb.com
+  363  dig @8.8.8.8 fb.com
+  364  dig @8.8.8.8 openai.com
+  365  clear
+  366  dig -t type65 @8.8.8.8 cloudfare.com
+  367  dig type65 @8.8.8.8 cloudfare.com
+  368  dig @8.8.8.8 cloudfare.com
+  369  ssh root@10.218.8.86
+  370  ssh root@10.144.131.54
+  371  export LC_ALL="en_US.UTF-8" export LC_CTYPE="en_US.UTF-8" sudo dpkg-reconfigure locales
+  372  export LC_ALL="en_US.UTF-8" export LC_CTYPE="en_US.UTF-8" 
+  373  ssh root@10.144.131.54
+  374  ssh root@10.144.128.37
+  375  ssh root@ssh root@10.170.12.41
+  376  ssh root@10.170.12.41
+  377  ssh root@10.144.128.37
+  378  sea
+  379  ssh root@10.144.128.37
+  380  ssh root@10.144.128.37
+  381  exit
+  382  ssh root@10.144.131.54
+  383  ssh root@10.144.129.91
+  384  ssh root@10.144.131.54
+  385  ssh root@10.144.128.37
+  386  sea
+  387  ls
+  388  vi example.py
+  389  code
+  390  cd scratch/
+  391  vi ~/.bashrc 
+  392  pip3 install 2to3
+  393  /Applications/Xcode.app/Contents/Developer/usr/bin/python3 -m pip install --upgrade pip
+  394  python3 
+  395  2to3 example.py
+  396  python3 
+  397  export PATH=/Users/n.ms/Library/Python/3.9/bin:$PATH
+  398  pip3 install 2to3
+  399  echo export PATH=/Users/n.ms/Library/Python/3.9/bin:$PATH >> ~/.bashrc 
+  400  vi ~/.bashrc 
+  401  python3 
+  402  python --version
+  403  python3 --version
+  404  python3 
+  405  code
+  406  cd scratch/
+  407  ls
+  408  2to3 example.py 
+  409  2to3 example.py -w
+  410  cat example.py
+  411  2to3 example.py -w
+  412  2to3 example.py -w
+  413  cat example.py
+  414  ls
+  415  scp root@10.144.128.37:/root/f5ite/chroot/HostShare/p4/ite/tcr/ota-ite8-dev/testcaseRoot/default/ltm/dns/oblivious-dns-over-https .
+  416  scp -r root@10.144.128.37:/root/f5ite/chroot/HostShare/p4/ite/tcr/ota-ite8-dev/testcaseRoot/default/ltm/dns/oblivious-dns-over-https .
+  417  cd oblivious-dns-over-https/
+  418  ls
+  419  2to3 odoh_gtmlib.py 
+  420  2to3 odoh_gtmlib.py 
+  421  2to3 odoh_gtmlib.py 
+  422  2to3 odoh_gtmlib.py 
+  423  ssh root@10.144.129.91
+  424  ssh root@10.144.131.51
+  425  ssh root@10.144.131.53
+  426  ssh root@10.144.128.37
+  427  clear
+  428  python3 
+  429  vi ~/.bashrc 
+  430  cd /usr/local/bin/ls -l /usr/local/bin | grep
+  431  brew list | grep python
+  432  ls
+  433  rm -f oddeven.py 
+  434  cat b 
+  435  cat b.txt 
+  436  rm -f b.txt 
+  437  rm -f @ 
+  438  rm -f ~ 
+  439  rm -f ~
+  440  ls
+  441  cd oblivious-dns-over-https/
+  442  ls
+  443  ll hpke_3/
+  444  vi hpke_3/
+  445  ls
+  446  ssh root@10.144.130.73
+  447  cd /
+  448  cd ..
+  449  find . -name "python" 
+  450  sudo find . -name "python" 
+  451  which python
+  452  which python3
+  453  brew doctor
+  454  brew doctor | grep python
+  455  brew doctor | "grep python"
+  456  brew doctor | grep "python"
+  457  brew doctor
+  458  scp -r root@10.144.128.37:/root/f5ite/chroot/HostShare/p4/ite/tcr/ota-ite8-dev/testcaseRoot/default/ltm/dns/dns-over-https/cache/doh_dns_cache_20775.py .
+  459  sea
+  460  ls
+  461  2to3 doh_dns_cache_20775.py 
+  462  2to3 doh_dns_cache_20775.py 
+  463  2to3 example.py
+  464  sea
+  465  ls
+  466  vi oddeven.py
+  467  chmod +x oddeven.py 
+  468  python3 oddeven.py 
+  469  vi oddeven.py
+  470  python3 oddeven.py 
+  471  vi oddeven.py
+  472  python3 oddeven.py 
+  473  vi oddeven.py
+  474  python3 oddeven.py 
+  475  vi oddeven.py
+  476  python3 oddeven.py 
+  477  vi ReviewB 
+  478  python3 oddeven.py 
+  479  vi ReviewB 
+  480  vi oddeven.py
+  481  python3 oddeven.py 
+  482  vi oddeven.py
+  483  python3 oddeven.py 
+  484  python3 oddeven.py 
+  485  python3 oddeven.py 
+  486  dig @1.1.1.1 google.com +rrsig
+  487  dig @1.1.1.1 google.com +dnssec
+  488  dig @8.8.8.8.8 google.com +dnssec
+  489  dig @8.8.8.8 google.com 
+  490  dig @8.8.8.8 google.com +dnssec
+  491  dig @8.8.8.8 geeksforgeeks.com +dnssec
+  492  dig @8.8.8.8 geeksforgeeks.com +dnssec +retries=0 +timeout=1000
+  493  dig @8.8.8.8 f5.com +dnssec +retries=0 +timeout=1000
+  494  dig +dnssec @8.8.8.8 google.com
+  495  ssh root@10.144.128.37
+  496  ssh root@10.144.128.37
+  497  ssh root@10.144.128.37
+  498  ssh root@10.144.128.37
+  499  ssh root@10.218.48.114
+  500  ssh root@10.144.129.27
+  501  scp -r root@10.144.128.37:/root/f5ite/chroot/HostShare/p4/ite/tcr/ota-ite8-dev/testcaseRoot/default/ltm/dns/dns-over-https/cache/tcp/pcap .
+  502  scp -r root@10.144.128.37:/root/f5ite/chroot/HostShare/p4/ite/tcr/ota-ite8-dev/testcaseRoot/default/ltm/dns/dns-over-https/cache/tcp.pcap .
+  503  pwd
+  504  ssh root@10.144.128.235
+  505  ls
+  506  cd oblivious-dns-over-https/
+  507  ls
+  508  cd ..
+  509  cd ..
+  510  ls
+  511  cd odoh-client-
+  512  cd odoh-client-go/
+  513  ls
+  514  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com
+  515  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com --proxy odoh1.surfdomeinen.nl
+  516  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com --proxy odoh1.surfdomeinen.nl
+  517  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com --proxy odoh1.surfdomeinen.nl
+  518  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  519  ./commands/
+  520  cd commands/
+  521  ls
+  522  ./benchmark
+  523  ./benchmark.go
+  524  chmod +x benchmark.go 
+  525  ./benchmark.go 
+  526  cd ..
+  527  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  528  history | grep dig
+  529  dig -t type65 +dnssec @ns1.cloudflare.com odoh.cloudflare-dns.com 
+  530  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  531  grep -nr . "decode"
+  532  grep -nr "decode" . 
+  533  dig -t type65 @ns1.cloudflare.com odoh.cloudflare-dns.com 
+  534  dig -t type65 google.com
+  535  dig -t type65 @ns1.cloudflare.com odoh.cloudflare-dns.com 
+  536  dig -t type65 @ns1.cloudflare.com odoh.cloudflare-dns.com 
+  537  dig -t type65 @ns1.cloudflare.com google.com
+  538  dig -t type65 @ns1.cloudflare.com odoh.cloudflare-dns.com 
+  539  dig @8.8.8.8 cloudfare.com
+  540  dig @8.8.8.8 cloudfare.com
+  541  dig -t type65 @ns1.cloudflare.com odoh.cloudflare-dns.com 
+  542  dig -t type65 @ns1.cloudflare.com odoh.cloudflare-dns.com 
+  543  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  544  pwd
+  545  doh-cli example.org AAAA
+  546  doh-cli example.org AAAA
+  547  doh-cli example.org AAAA
+  548  doh-cli example.org AAAA
+  549  doh-cli example.org AAAA
+  550  dig -t type65 @ns1.cloudflare.com odoh.cloudflare-dns.com 
+  551  dig -t type65 @ns1.cloudflare.com odoh.cloudflare-dns.com 
+  552  dig -t type65 @ns1.cloudflare.com odoh.cloudflare-dns.com 
+  553  dig -t type65 @1.1.1.1 ns1.cloudflare.com
+  554  dig -t type65 @1.1.1.1 ns1.cloudflare.com
+  555  dig -t type65 @ns1.cloudflare.com odoh.cloudflare-dns.com 
+  556  dig -t type65 @cloudflare.com odoh.cloudflare-dns.com 
+  557  dig -t type65 @1.1.1.1 odoh.cloudflare-dns.com 
+  558  dig -t type65 @1.1.1.1 odoh.cloudflare-dns.com 
+  559  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  560  grep -nr "ObliviousDoHConfigs" .
+  561  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  562  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com
+  563  go build -o odoh-client ./cmd/...
+  564  go build -o odoh-client ./cmd/...
+  565  go build -o odoh-client ./cmd/...
+  566  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com
+  567  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  568  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  569  go build -o odoh-client ./cmd/...
+  570  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  571  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  572  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  573  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  574  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  575  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  576  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  577  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  578  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  579  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  580  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  581  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  582  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  583  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  584  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com
+  585  dig -t type65 @1.1.1.1 odoh.cloudflare-dns.com 
+  586  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  587  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  588  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  589  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  590  go build -o odoh-client ./cmd/... ; ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty
+  591  ./odoh-client odoh --domain www.cloudflare.com. --dnstype SVCB --target odoh.cloudflare-dns.com
+  592  ./odoh-client odoh --domain www.cloudflare.com. --dnstype 65 --target odoh.cloudflare-dns.com
+  593  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com
+  594  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com -config 00010000010006026833026832000400086812142A6812152A000600202606470000000000000000006812142A2606470000000000000000006812152A
+  595  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com -config
+  596  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com -config 6100010000010006026833026832000400086812142A6812152A000600202606470000000000000000006812142A2606470000000000000000006812152A
+  597  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com 
+  598  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com -config 002c000100280020000100010020bd0443d01749f1ab442f1287295bee80c8846d2bd33e47bd41bc891584ad7138
+  599  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty 
+  600  kdig
+  601  dig -t type65 @ns1.cloudflare.com odoh.cloudflare-dns.com 
+  602  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com -config 002c000100280020000100010020bd0443d01749f1ab442f1287295bee80c8846d2bd33e47bd41bc891584ad7138
+  603  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty 
+  604  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty 
+  605  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty 
+  606  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com
+  607  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --config 002c000100280020000100010020bd0443d01749f1ab442f1287295bee80c8846d2bd33e47bd41bc891584ad7138
+  608  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com -config 002c000100280020000100010020bd0443d01749f1ab442f1287295bee80c8846d2bd33e47bd41bc891584ad7138
+  609  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --c 002c000100280020000100010020bd0443d01749f1ab442f1287295bee80c8846d2bd33e47bd41bc891584ad7138
+  610  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com --config 002c000100280020000100010020bd0443d01749f1ab442f1287295bee80c8846d2bd33e47bd41bc891584ad7138
+  611  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty 
+  612  ssh root@10.144.128.235
+  613  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty 
+  614  ./odoh-client odohconfig-fetch --target odoh.cloudflare-dns.com --pretty 
+  615  ./odoh-client odoh --domain www.cloudflare.com. --dnstype AAAA --target odoh.cloudflare-dns.com
+  616  history > history 
